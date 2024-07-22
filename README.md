@@ -33,12 +33,12 @@
 </div>
 
 <div align="center">
-  <h2>🎓 Formação Acadêmica🎓</h2>
+  <h2>🎓 Formação Acadêmica</h2>
   💻  Tecnólogo em Análise e Desenvolvimento de Sistemas - Centro Universitário Instituto de Educação Superior de Brasília (IESB) <br>
 </div>
 
 <div align="center">
-  <h2>🛠 📚 Cursando 📚</h2>
+  <h2>📚 Cursando</h2>
   <ul>
     <li>Programador Full-Stack - Serviço Nacional de Aprendizagem Industrial (SENAI)</li>
   </ul>
