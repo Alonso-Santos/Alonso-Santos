@@ -39,9 +39,7 @@
 
 <div align="center">
   <h2>📚 Cursando</h2>
-  <ul>
-    <li>Programador Full-Stack - Serviço Nacional de Aprendizagem Industrial (SENAI)</li>
-  </ul>
+  - Programador Full-Stack - Serviço Nacional de Aprendizagem Industrial (SENAI)
 </div>
 
 <div align="center">
