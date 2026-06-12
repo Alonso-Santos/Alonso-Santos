@@ -44,6 +44,7 @@
 <div align="center">
   <h2>📚 Cursando</h2>
   - Programador Full-Stack - Serviço Nacional de Aprendizagem Industrial (SENAI)
+  - Técnico em Desenvolvimento Web Mobile - Escola do Futuro de Goiás (EFG)
 </div>
 
 <div align="center">
