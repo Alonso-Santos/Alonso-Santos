@@ -58,11 +58,3 @@
   <h2>Contador de visitas</h2>
   <img src="https://profile-counter.glitch.me/Alonso-Santos/count.svg?"  />
 </div>
-
-
-<!-- Pacman -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alonso-Santos/Alonso-Santos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alonso-Santos/Alonso-Santos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alonso-Santos/Alonso-Santos/output/pacman-contribution-graph.svg">
-</picture>
